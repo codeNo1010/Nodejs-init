@@ -1,0 +1,9 @@
+node.Js 설치 순서
+1. 작업폴더생성
+2. 폴더에서 터미널 열고 - npm init
+3. Entry point 파일 설정 (server.js or index.js)
+4. 폴더에서 - npminstall express
+5. package.json 에서 express 확인 , 서버 잘 뜨는지 확인
+6. Node mon 설치 
+   - Sudo npm Install -g nodemon
+   - nodemon server.js 형식으로 JS파일 실행함
