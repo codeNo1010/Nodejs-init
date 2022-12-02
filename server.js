@@ -13,3 +13,13 @@ app.get('/first' , function(요청, 응답){
 app.get('/', function(요청, 응답){
     응답.sendFile(__dirname + '/index.html');
 });
+
+//git commit 
+//  rm -rf .git.
+//  git init.
+
+//  git add .
+//  git commit -m “init”
+//  git log
+//  git remote add origin <url>
+//  git push -u —force origin master
